@@ -1,3 +1,4 @@
+import '../styles/index.css'
 import Head from 'next/head'
 import SearchForm from '../components/searchForm'
 import Layout from '../components/layout'
