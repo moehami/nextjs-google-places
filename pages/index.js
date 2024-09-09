@@ -6,7 +6,7 @@ export default function TestPage() {
   return (
     <Layout>
       <Head>
-        <title>Search Place</title>
+        <title>Welcome to Search Place</title>
       </Head>
 
       <div className="container mx-auto px-10">
